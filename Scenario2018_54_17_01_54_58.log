@@ -1,0 +1,10 @@
+[2018-12-17 01:54:58] [INFO ] HelloExample:HelloExample.java:43 - Scenario Log Started.
+[2018-12-17 01:54:58] [INFO ] HelloExample:HelloExample.java:50 - This is info : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [WARN ] HelloExample:HelloExample.java:54 - This is warn : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [ERROR] HelloExample:HelloExample.java:55 - This is error : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [FATAL] HelloExample:HelloExample.java:56 - This is fatal : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [WARN ] HelloExample:HelloExample.java:57 - This is warn : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [ERROR] HelloExample:HelloExample.java:58 - This is error : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [FATAL] HelloExample:HelloExample.java:59 - This is fatal : Rupesh Kumar Somala
+[2018-12-17 01:54:58] [INFO ] HelloExample:HelloExample.java:60 - Scenario Log Ended.
+[2018-12-17 01:54:58] [INFO ] HelloExample:HelloExample.java:38 - Overall Log Ended.
